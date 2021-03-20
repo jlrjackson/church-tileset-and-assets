@@ -1,0 +1,23 @@
+Roadmap for tileset(s) and assets.
+
+Initial desired assets / elements for tileset
+
+1) Floors
+2) Walls
+3) Crucifix
+4) Altar
+5) Baptismal font
+6) Pews
+7) Holy water fonts
+8) Presider chair
+9) Statuary
+10) Stained glass
+11) Doors
+12) Reredos
+13) Frescos
+14) Other ornament
+
+Styles to cover 
+1) Gothic
+2) Roman basilica
+3) Romanesque
