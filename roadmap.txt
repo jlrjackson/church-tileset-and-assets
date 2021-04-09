@@ -1,10 +1,10 @@
 Roadmap for tileset(s) and assets.
 
-Initial desired assets / elements for tileset
+Initial desired assets & elements for tileset
 
 1) Floors
 2) Walls
-3) Crucifix
+3) Crucifix -- added two initial ones
 4) Altar
 5) Baptismal font
 6) Pews
@@ -16,6 +16,8 @@ Initial desired assets / elements for tileset
 12) Reredos
 13) Frescos
 14) Other ornament
+15) Candles -- added several
+16) Monstrance -- added one
 
 Styles to cover 
 1) Gothic
