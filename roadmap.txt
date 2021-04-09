@@ -13,7 +13,7 @@ Initial desired assets & elements for tileset
 9) Statuary
 10) Stained glass
 11) Doors
-12) Reredos
+12) Reredos -- added one
 13) Frescos
 14) Other ornament
 15) Candles -- added several
