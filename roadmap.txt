@@ -11,6 +11,10 @@ Initial desired assets & elements for tileset
 7) Holy water fonts
 8) Presider chair
 9) Statuary
+a) Blessed Virgin Mary
+b) St. Joseph
+c) St. Michael the Archangel
+d) Angels
 10) Stained glass
 11) Doors
 12) Reredos -- added one
